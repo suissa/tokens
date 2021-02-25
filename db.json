@@ -1,7 +1,7 @@
 {
-id: 0,
-description: "My Suissa NFT",
-external_url: "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-image: "https://twemoji.maxcdn.com/svg/1f40e.svg",
-name: "My Suissa NFT 0"
+  "id": 0,
+  "description": "My Suissa NFT",
+  "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+  "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+  "name": "My Suissa NFT 0"
 }
